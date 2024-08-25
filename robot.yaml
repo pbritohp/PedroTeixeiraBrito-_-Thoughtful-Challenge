@@ -1,0 +1,16 @@
+tasks:
+  Run Task:
+    shell: python tasks.py
+
+condaConfigFile: conda.yaml
+
+artifactsDir: output
+
+PATH:
+  - .
+PYTHONPATH:
+  - .
+
+ignoreFiles:
+  - .gitignore
+  - robot.yaml
