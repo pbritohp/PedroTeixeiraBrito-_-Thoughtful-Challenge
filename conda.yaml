@@ -11,3 +11,4 @@ dependencies:
     - pandas==2.2.2
     - python-dateutil==2.9.0.post0
     - rpaframework==28.6.2
+    - chromedriver-binary==114.0.5735.90
