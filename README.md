@@ -1,6 +1,6 @@
 # Pedro Teixeira Brito - Thoughtful Automation Challenge
 
-Welcome to my submission for the Thoughtful Automation Challenge! This project is designed to automate the extraction of data from a news website using Robocorp and Selenium. Below, you'll find an overview of the project, the process workflow, setup instructions, and additional details.
+Welcome to my submission for the Thoughtful Automation Challenge! This project is designed to automate the extraction of data from a news website (https://gothamist.com) using Robocorp and Selenium. Below, you'll find an overview of the project, the process workflow, setup instructions, and additional details.
 
 ## 📖 Project Overview
 
